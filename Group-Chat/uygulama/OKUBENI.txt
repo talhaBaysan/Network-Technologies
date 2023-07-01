@@ -1,0 +1,2 @@
+Uygulama önce Server.bat, sonra Client.bat çalıştırılarak başlatılabilir.
+bat dosyaları içindeki komutlar komut satırından yazılarak da çalıştırılabilir.
